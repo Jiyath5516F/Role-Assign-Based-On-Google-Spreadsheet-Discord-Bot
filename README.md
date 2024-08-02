@@ -1,7 +1,7 @@
 # Role Assign Based On Google Spreadsheet Discord Bot
 
 ## Purpose of this bot:
-This app automatically assign roles for users on discord based on **Based On Google Spreadsheet** response.
+This app automatically assign roles for users on discord based on **Google Spreadsheet** response.
 
 ## Note:
 ⚠️⚠️ USE THIS ON YOUR OWN RISK ⚠️⚠️!!
